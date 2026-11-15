@@ -1,4 +1,4 @@
 ---
 layout: home
-![Justinian](/justinian.jpg)
 ---
+![Justinian](/justinian.jpg)
